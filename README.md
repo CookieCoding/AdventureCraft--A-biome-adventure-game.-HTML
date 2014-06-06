@@ -1,4 +1,4 @@
-AdventureCraft--A-biome-adventure-game.-HTML
+AdventureCraft  A biome adventure game. HTML
 ============================================
 
 A little adventure game.
